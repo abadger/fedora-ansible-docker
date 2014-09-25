@@ -6,3 +6,5 @@ construct the image.
 
 This is similar to the ansible-docker-base repository but with Fedora images as
 the starting point
+
+
